@@ -14,7 +14,7 @@ On this Personal Portfolio, there are five sections on one page – Home, About,
 ### The Challenge 
 
 - One of the challenges I have faced is to add the humburger menu to get the right max-width for the mobile responsiveness in css.
-- Another challenge I have faced was add the typing text animation script.
+- Another challenge I have faced was to add the typing text animation script.
 
 ## What I have learned with this project:
 
