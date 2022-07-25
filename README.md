@@ -20,7 +20,7 @@ On this Personal Portfolio, there are five sections on one page – Home, About,
 
 - the ability to add typing text animation script
 
-<h1>Some JS code I'm proud of</h1>
+<h5>Some JS code I'm proud of</h5>
 
 var typed = new Typed(".typing", {
         strings: ["Developer", "Designer", "Freelancer"],
@@ -36,8 +36,8 @@ var typed = new Typed(".typing", {
         loop: true
     });
 
-    - ability to add the humburger menu
-    - ability to created the scroll down page.
+- ability to add the humburger menu
+- ability to created the scroll down page.
 
     Thank you for visiting My Porfolio
 
